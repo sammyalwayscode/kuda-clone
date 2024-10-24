@@ -1,4 +1,3 @@
-import styled from "styled-components"
 import Personal from "./pages/Personal";
 import Header from "./static/Header";
 import Footer from "./static/Footer";
@@ -25,12 +24,6 @@ const App = () => {
 }
 
 export default App
-
-const Container = styled.div`
-background-color: yellow;
-font-size: 30px;
-color: pink;
-`
 
 
 
